@@ -3255,3 +3255,6 @@ DEBUG 2022-06-27 06:10:46,473 autoreload 14 140199446243136 File /usr/local/lib/
 DEBUG 2022-06-27 06:10:46,473 autoreload 14 140199446243136 File /usr/local/lib/python3.10/site-packages/django/middleware/clickjacking.py first seen with mtime 1655993280.0
 DEBUG 2022-06-27 06:10:46,474 autoreload 14 140199446243136 File /usr/local/lib/python3.10/site-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py first seen with mtime 1655993280.0
 DEBUG 2022-06-27 06:10:46,475 autoreload 14 140199446243136 File /usr/local/lib/python3.10/site-packages/django/contrib/auth/migrations/0010_alter_group_name_max_length.py first seen with mtime 1655993280.0
+DEBUG 2022-06-27 06:35:24,939 autoreload 14 140199446243136 File /code/DockerLogs1/settings.py previous mtime: 1655994461.5899096, current mtime: 1656311724.2211828
+DEBUG 2022-06-27 06:35:24,942 autoreload 14 140199446243136 /code/DockerLogs1/settings.py notified as changed. Signal results: [(<function template_changed at 0x7f82b90f3d00>, None), (<function translation_file_changed at 0x7f82b7219b40>, None)].
+INFO 2022-06-27 06:35:24,942 autoreload 14 140199446243136 /code/DockerLogs1/settings.py changed, reloading.
